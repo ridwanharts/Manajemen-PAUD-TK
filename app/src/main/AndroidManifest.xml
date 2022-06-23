@@ -16,7 +16,7 @@
         android:theme="@style/Theme.ManajemenPAUDTK"
         tools:targetApi="31">
         <activity
-            android:name=".SplashScreenActivity"
+            android:name=".view.SplashScreenActivity"
             android:theme="@style/ThemeSplash"
             android:exported="true" >
             <intent-filter>
@@ -25,7 +25,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".view.MainActivity"
             android:exported="true">
         </activity>
     </application>

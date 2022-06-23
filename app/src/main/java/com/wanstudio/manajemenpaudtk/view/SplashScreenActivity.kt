@@ -1,8 +1,9 @@
-package com.wanstudio.manajemenpaudtk
+package com.wanstudio.manajemenpaudtk.view
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.wanstudio.manajemenpaudtk.R
 
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
